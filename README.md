@@ -2,7 +2,7 @@
 
 A full-stack inventory management system that connects a PostgreSQL database to a modern, responsive frontend. This application provides a centralized dashboard for monitoring inventory, managing products and users, and tracking expenses visually with charts.
 
-## 🚀 Features
+## Features
 
 - **Dashboard**: Overview of key metrics and inventory summaries.
 - **Inventory Page**: Displays current stock levels of each product.
@@ -10,7 +10,7 @@ A full-stack inventory management system that connects a PostgreSQL database to 
 - **User Management**: Manage access and user roles.
 - **Expense Tracking**: Visualize expense breakdowns with interactive pie charts.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Backend**: Node.js
 - **Frontend**: Tailwind CSS
